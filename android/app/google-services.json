@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813829231049",
+    "project_id": "bteb-ba126",
+    "storage_bucket": "bteb-ba126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813829231049:android:acdc6c2042db4cac08d818",
+        "android_client_info": {
+          "package_name": "com.bteb_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813829231049-a787am37ufjacmg654q8p98luobhpb1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIStdmUzgv6GYZW9bM9KnO8G_9iCB0NgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813829231049-a787am37ufjacmg654q8p98luobhpb1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
